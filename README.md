@@ -81,7 +81,7 @@
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniketvishwakarma21&radius=30&theme=nightowl&area=true&order=5" height="220" alt="activity-graph graph"  />
 </div>
 
