@@ -1,18 +1,6 @@
-<h6 align="left">Hi there 👋, My name is Aniket ! 👩‍🎓</h6>
+<br clear="both">
 
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/aniket-vishwakarma-729972226/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="20" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/vaniket2021" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="32" height="20" alt="hackerrank logo"  />
-  </a>
-  <a href="https://www.instagram.com/vaniket15/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="32" height="20" alt="instagram logo"  />
-  </a>
-</div>
+<h2 align="center">Hello 👋, MySelf Aniket Vishwakarma ! 👩‍🎓</h2>
 
 ###
 
@@ -24,15 +12,35 @@
 
 ###
 
-<h5 align="left">. 💻 I’m a pre-final year Computer  Science Student, with tremendous passion for web  development;<br>. 💪 Ask me about Web Development ;<br>. 💬 learning DSA<br>. 📫 Reach out to me: vaniket2021@gmail.com</h5>
+<h6 align="left">. 💻 I’m a pre-final year Computer  Science Student.<br><br>. 📫  Tremendous passion for web  development.<br><br>. 💪 Ask me about Web Development ;<br><br>. 💬 learning DSA in Java</h6>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<br clear="both">
+
+<p align="left">Connect With me :</p>
 
 ###
 
-<div align="center">
+<div align="left">
+  <a href="https://www.linkedin.com/in/aniket-vishwakarma-729972226/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="20" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/vaniket15/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="32" height="20" alt="instagram logo"  />
+  </a>
+  <a href="vaniket2021@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" height="20" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<h4 align="left">🛠 Language and tools</h4>
+
+###
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="28" alt="c logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="28" alt="cplusplus logo"  />
@@ -53,17 +61,23 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="28" alt="github logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="28" alt="intellij logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="28" alt="linux logo"  />
-  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="28" alt="vscode logo"  />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&theme=default&username=aniketvishwakarma" alt="Layout with last medium posts"  />
+<img align="right" height="180" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
+
+###
+
+<img src="https://raw.githubusercontent.com/aniketvishwakarma21/aniketvishwakarma21/output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniketvishwakarma21&radius=30&theme=nightowl&area=true&order=5" height="220" alt="activity-graph graph"  />
 </div>
 
 ###
