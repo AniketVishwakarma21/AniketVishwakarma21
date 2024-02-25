@@ -12,13 +12,13 @@
 
 ###
 
-<h6 align="left">. 💻 I’m a pre-final year Computer  Science Student.<br><br>. 📫  Tremendous passion for web  development.<br><br>. 💪 Ask me about Web Development ;<br><br>. 💬 learning DSA in Java</h6>
+<h6 align="left">. 💻 I’m a pre-final year Computer  Science Student, Tremendous passion for web  development.<br><br>. 💪 Ask me about Web Development ;<br><br>. 💬 learning DSA in Java</h6>
 
 ###
 
 <br clear="both">
 
-<p align="left">Connect With me :</p>
+<h4 align="left">Connect With me :</h4>
 
 ###
 
@@ -66,11 +66,16 @@
 
 ###
 
-<img align="right" height="180" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
+<br clear="both">
+
+<img align="right" height="230" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
 ###
 
-<img src="https://raw.githubusercontent.com/aniketvishwakarma21/aniketvishwakarma21/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aniketvishwakarma21&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aniketvishwakarma21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
 
@@ -78,6 +83,12 @@
 
 <div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniketvishwakarma21&radius=30&theme=nightowl&area=true&order=5" height="220" alt="activity-graph graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/aniketvishwakarma21/count.svg?"  />
 </div>
 
 ###
