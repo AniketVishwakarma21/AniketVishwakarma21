@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">Hello folks, I'm Aniket Vishwakarma, an aspiring Web Developer. I'm proficient in C, C++, Python, HTML, CSS. I look forward to absorbing knowledge🧠, gaining experience 🏭, collaborating🤝, growing 🌱, upskilling and building impactful websites through my work! Please feel free to reach out and talk about ideas!</h3>
+<h3 align="center">Hello folks, I'm Aniket Vishwakarma, an aspiring Web Developer. I'm proficient in C, C++, Python,Java, HTML, CSS. I look forward to absorbing knowledge🧠, gaining experience 🏭, collaborating🤝, growing 🌱, upskilling and building impactful websites through my work! Please feel free to reach out and talk about ideas!</h3>
 
 ###
 
