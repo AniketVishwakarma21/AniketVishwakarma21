@@ -12,7 +12,9 @@
 
 ###
 
-<h4 align="left">. 💻 I’m a pre-final year Computer  Science Student, Tremendous passion for web  development.<br>. 💪 Ask me about Web Development ;<br>. 💬 learning DSA in Java</h4>
+<h4 align="left">. 💻 Experienced in Java, JavaScript, SQL, Python, and front-end development with React and responsive design.     
+Solved 100+ coding challenges on LeetCode, GeeksforGeeks.
+Awarded two national-level certificates as a group leader in The Bharat Scout & Guide (Madhya Pradesh, 2022).</h4>
 
 ###
 
