@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">Hello folks, I'm Aniket Vishwakarma, an aspiring Web Developer. I'm proficient in C, C++, Python,Java, HTML, CSS. I look forward to absorbing knowledge🧠, gaining experience 🏭, collaborating🤝, growing 🌱, upskilling and building impactful websites through my work! Please feel free to reach out and talk about ideas!</h3>
+<h3 align="center">Hello folks, I'm Aniket Vishwakarma, an aspiring Web Developer. I'm proficient in C, C++, Python,Java, I look forward to absorbing knowledge🧠, gaining experience 🏭, collaborating🤝, growing 🌱, upskilling and building impactful websites through my work! Please feel free to reach out and talk about ideas!</h3>
 
 ###
 
@@ -12,9 +12,10 @@
 
 ###
 
-<h4 align="left">. 💻 Experienced in Java, JavaScript, SQL, Python, and front-end development with React and responsive design.     
+<h4 align="left"> 💻 Experienced in Java, JavaScript, SQL, Python, and front-end development with React and responsive design.     
 Solved 100+ coding challenges on LeetCode, GeeksforGeeks.
-Awarded two national-level certificates as a group leader in The Bharat Scout & Guide (Madhya Pradesh, 2022).</h4>
+
+  Awarded two national-level certificates as a group leader in The Bharat Scout & Guide (Madhya Pradesh, 2022).</h4>
 
 ###
 
