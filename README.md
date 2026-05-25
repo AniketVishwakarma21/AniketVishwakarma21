@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">Hello folks, I'm Aniket Vishwakarma, an aspiring Web Developer. I'm proficient in C, C++, Python,Java, I look forward to absorbing knowledge🧠, gaining experience 🏭, collaborating🤝, growing 🌱, upskilling and building impactful websites through my work! Please feel free to reach out and talk about ideas!</h3>
+<h3 align="center">Hello folks, I'm Aniket Vishwakarma, an aspiring Web Developer. I'm proficient in Java, JavaScript, React . I look forward to absorbing knowledge🧠, gaining experience 🏭, collaborating🤝, growing 🌱, upskilling and building impactful websites through my work! Please feel free to reach out and talk about ideas!</h3>
 
 ###
 
@@ -12,10 +12,15 @@
 
 ###
 
-<h4 align="left"> 💻 Experienced in Java, JavaScript, SQL, Python, and front-end development with React and responsive design.     
-Solved 100+ coding challenges on LeetCode, GeeksforGeeks.
+<h4 align="left">Computer Science Engineering student with hands-on experience in Java, JavaScript, Python, and SQL. Proficient in front-end development using React, with a strong focus on building responsive, scalable, and user-friendly web applications.
 
-  Awarded two national-level certificates as a group leader in The Bharat Scout & Guide (Madhya Pradesh, 2022).</h4>
+Solved 100+ coding problems on platforms such as LeetCode and GeeksforGeeks, demonstrating strong problem-solving abilities and a solid foundation in data structures and algorithms.
+
+Recognized as a group leader with four  national-level certifications from The Bharat Scout & Guide (Madhya Pradesh), reflecting proven leadership, teamwork, and discipline.
+
+Highly motivated to learn emerging technologies and contribute effectively to software development and front-end engineering roles.
+
+Open to opportunities in Software Development and Frontend Development.</h4>
 
 ###
 
@@ -44,10 +49,6 @@ Solved 100+ coding challenges on LeetCode, GeeksforGeeks.
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="28" alt="c logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="28" alt="cplusplus logo"  />
-  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="28" alt="java logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" alt="python logo"  />
